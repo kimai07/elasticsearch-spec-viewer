@@ -1,1 +1,0 @@
-# elasticsearch-spec-viewer
