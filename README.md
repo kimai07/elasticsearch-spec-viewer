@@ -1,6 +1,6 @@
 # elasticsearch-spec-viewer
 
-[elasticsearch-specification](https://github.com/elastic/elasticsearch-specification)リポジトリのoutput/schema.jsonの内容を表示するためのViewerです。
+[elasticsearch-specification](https://github.com/elastic/elasticsearch-specification)リポジトリのoutput/schema/schema.jsonの内容を表示するためのViewerです。
 このViewerを見ることでどのエンドポイントがどのバージョンで追加されたかを確認することが出来ます。
 
 * https://kimai07.github.io/elasticsearch-spec-viewer/
